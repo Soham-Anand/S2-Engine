@@ -20,6 +20,7 @@ S2-Engine is dedicated to the conceptual design, CAD modeling, and engineering a
 - [Engineering Constraints (initial targets)](#engineering-constraints-initial-targets)
 - [Materials & Components](#materials--components)
 - [Calculations & Simulation](#calculations--simulation)
+- [Wiki Documentation](#wiki-documentation)
 - [Development Status](#development-status)
 - [Engineering Principles](#engineering-principles)
 - [License](#license)
@@ -246,6 +247,15 @@ Estimated, calculated, simulated, and experimentally measured results will be di
 - Validate engineering claims against appropriate evidence.
 
 ---
+
+## Wiki Documentation
+
+All learning and project documentation lives on the **GitHub Wiki** (not in this repository):
+- **Learning Base** — fundamentals, thermodynamics, calculations, materials, thermal, CAD, references.
+- **Project Base** — specifications, constraints, architecture, mechanical systems, materials, CAD pipeline, calculations, simulation plan.
+
+The repository stays focused on CAD models, calculations, and code. See the wiki for
+documentation.
 
 ## License
 
